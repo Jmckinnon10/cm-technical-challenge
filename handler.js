@@ -17,4 +17,4 @@ module.exports.reverser = async (event) => {
   }
 }
 
-module.exports.reverser("hello")
+module.exports.reverser("john")
